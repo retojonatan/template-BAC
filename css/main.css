@@ -234,6 +234,10 @@ footer {
 }
 
 @media screen and (max-width:768px) {
+    main {
+        margin-top: 40px;
+    }
+
     .img-side {
         margin: 30px 0;
     }
@@ -248,6 +252,7 @@ footer {
 }
 
 @media screen and (max-width:575px) {
+
     nav {
         height: auto;
         position: fixed !important;
